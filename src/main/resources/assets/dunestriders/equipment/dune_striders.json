@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "dunestriders:dune_striders"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "dunestriders:dune_striders"
+      }
+    ]
+  }
+}
