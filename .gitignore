@@ -38,3 +38,12 @@ hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
+
+# mod-specific: generated/temp files
+
+*.log
+blockbench-mcp/
+quilt/
+generate_*.py
+dune_strider_*.png
+jars.txt
